@@ -1,0 +1,225 @@
+{
+  "product": [
+    {
+      "id": "1",
+      "name": "Spider Plant",
+      "price": 700,
+      "imageUri1": "https://img.freepik.com/free-psd/spider-plant-chlorophytum-comosum-flower-png-isolated-transparent-background_191095-12303.jpg",
+      "imageUri2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpS3QtmFohVxwlV0mSykhtR48PeyJ8Qy-rQjToAGKTRA&s",
+      "imageUri3": "https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA4L3Jhd3BpeGVsX29mZmljZV8zMF9waG90b19vZl9hX3NwaWRlcl9wbGFudF9pc29sYXRlZF9vbl93aGl0ZV9iYV9iMjFlNzg0ZC03ZTIxLTQwNzAtYjEyOC1jNzJkNTFlNGVlYWNfMS5wbmc.png",
+      "type": "Cay trồng",
+      "property": "Ua bóng",
+      "size": "nhỏ",
+      "origin": "Châu Phi",
+      "quantity": "10"
+    },
+    {
+      "id": "2",
+      "name": "Song of India",
+      "price": 900,
+      "imageUri1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe6SYk5hO8Wm9x3t_X0uijAlmTd0BkoE4izeV1HGuvDg&s",
+      "imageUri2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpS3QtmFohVxwlV0mSykhtR48PeyJ8Qy-rQjToAGKTRA&s",
+      "imageUri3": "https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA4L3Jhd3BpeGVsX29mZmljZV8zMF9waG90b19vZl9hX3NwaWRlcl9wbGFudF9pc29sYXRlZF9vbl93aGl0ZV9iYV9iMjFlNzg0ZC03ZTIxLTQwNzAtYjEyOC1jNzJkNTFlNGVlYWNfMS5wbmc.png",
+      "type": "Cay trồng",
+      "property": "Ưa nắng",
+      "size": "to",
+      "origin": "Ấn Độ",
+      "quantity": "123"
+    },
+    {
+      "id": "3",
+      "name": "Dracaena",
+      "price": 900,
+      "imageUri1": "https://foliacollective.com/cdn/shop/articles/FoliaCollective-DracaenaReflexaVariegata-6in-detail-web_1200x1800.jpg?v=1598142280",
+      "imageUri2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpS3QtmFohVxwlV0mSykhtR48PeyJ8Qy-rQjToAGKTRA&s",
+      "imageUri3": "https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA4L3Jhd3BpeGVsX29mZmljZV8zMF9waG90b19vZl9hX3NwaWRlcl9wbGFudF9pc29sYXRlZF9vbl93aGl0ZV9iYV9iMjFlNzg0ZC03ZTIxLTQwNzAtYjEyOC1jNzJkNTFlNGVlYWNfMS5wbmc.png",
+      "type": "Cay trồng",
+      "property": "Ưa bóng",
+      "size": "vừa",
+      "origin": "Mỹ",
+      "quantity": "123"
+    },
+    {
+      "id": "4",
+      "name": "Tropical Tree",
+      "price": 900,
+      "imageUri1": "https://hips.hearstapps.com/hmg-prod/images/ficus-elastica-burgundy-6in-pdp-01-1000x-64f2057b80c86.jpeg",
+      "imageUri2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpS3QtmFohVxwlV0mSykhtR48PeyJ8Qy-rQjToAGKTRA&s",
+      "imageUri3": "https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA4L3Jhd3BpeGVsX29mZmljZV8zMF9waG90b19vZl9hX3NwaWRlcl9wbGFudF9pc29sYXRlZF9vbl93aGl0ZV9iYV9iMjFlNzg0ZC03ZTIxLTQwNzAtYjEyOC1jNzJkNTFlNGVlYWNfMS5wbmc.png",
+      "type": "Cay trồng",
+      "property": "Ưa nắng",
+      "size": "nhỏ",
+      "origin": "Anh",
+      "quantity": "123"
+    },
+    {
+      "id": "5",
+      "name": "Monstera Deliciosa",
+      "price": 900,
+      "imageUri1": "https://www.plantswagshop.com/cdn/shop/products/ebirdofps_18.png?v=1649541082",
+      "imageUri2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpS3QtmFohVxwlV0mSykhtR48PeyJ8Qy-rQjToAGKTRA&s",
+      "imageUri3": "https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA4L3Jhd3BpeGVsX29mZmljZV8zMF9waG90b19vZl9hX3NwaWRlcl9wbGFudF9pc29sYXRlZF9vbl93aGl0ZV9iYV9iMjFlNzg0ZC03ZTIxLTQwNzAtYjEyOC1jNzJkNTFlNGVlYWNfMS5wbmc.png",
+      "type": "Cay trồng",
+      "property": "Ưa râm",
+      "size": "to",
+      "origin": "Mỹ",
+      "quantity": "123"
+    },
+    {
+      "id": "6",
+      "name": "Jade Plant",
+      "price": 900,
+      "imageUri1": "https://rukminim2.flixcart.com/image/850/1000/l251xu80/plant-sapling/f/h/i/no-perennial-yes-jaff01-1-plants-heaven-original-imagdjjye5kucef4.jpeg?q=90&crop=false",
+      "imageUri2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpS3QtmFohVxwlV0mSykhtR48PeyJ8Qy-rQjToAGKTRA&s",
+      "imageUri3": "https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA4L3Jhd3BpeGVsX29mZmljZV8zMF9waG90b19vZl9hX3NwaWRlcl9wbGFudF9pc29sYXRlZF9vbl93aGl0ZV9iYV9iMjFlNzg0ZC03ZTIxLTQwNzAtYjEyOC1jNzJkNTFlNGVlYWNfMS5wbmc.png",
+      "type": "Cay trồng",
+      "property": "Ua bong",
+      "size": "vừa",
+      "origin": "Châu Phi",
+      "quantity": "123"
+    }
+  ],
+  "user": [
+    {
+      "id": "1",
+      "username": "truongnguyen",
+      "password": "truong123",
+      "name": "Nguyen Văn Trường",
+      "email": "truongabc@gmail.com",
+      "address": "Yên Nghĩa,Hà Đông,Hà Nội",
+      "phone": "0378728133"
+    },
+    {
+      "id": "2",
+      "email": "morrison@gmail.com",
+      "username": "mor_2314",
+      "password": "83r5^_",
+      "name": "Nguyen Van Truong",
+      "phone": "1-570-236-7033",
+      "address": "Yên Nghĩa,Hà Đông,Hà Nội",
+      "__v": 0
+    },
+    {
+      "id": "3",
+      "email": "kevin@gmail.com",
+      "username": "kevinryan",
+      "password": "kev02937@",
+      "name": "Nguyen Van Truong",
+      "phone": "1-567-094-1345",
+      "address": "Yên Nghĩa,Hà Đông,Hà Nội",
+      "__v": 0
+    },
+    {
+      "id": "4",
+      "email": "don@gmail.com",
+      "username": "donero",
+      "password": "ewedon",
+      "name": "Nguyen Van Truong",
+      "phone": "1-765-789-6734",
+      "address": "Yên Nghĩa,Hà Đông,Hà Nội",
+      "__v": 0
+    },
+    {
+      "id": "5",
+      "email": "derek@gmail.com",
+      "username": "derek",
+      "password": "jklg*_56",
+      "name": "Nguyen Van Truong",
+      "phone": "1-956-001-1945",
+      "address": "Yên Nghĩa,Hà Đông,Hà Nội",
+      "__v": 0
+    },
+    {
+      "id": "6",
+      "email": "david_r@gmail.com",
+      "username": "david_r",
+      "password": "3478*#54",
+      "name": "Nguyen Van Truong",
+      "phone": "1-678-345-9856",
+      "address": "Yên Nghĩa,Hà Đông,Hà Nội",
+      "__v": 0
+    },
+    {
+      "id": "7",
+      "email": "miriam@gmail.com",
+      "username": "snyder",
+      "password": "f238&@*$",
+      "name": "Nguyen Van Truong",
+      "phone": "1-123-943-0563",
+      "address": "Yên Nghĩa,Hà Đông,Hà Nội",
+      "__v": 0
+    },
+    {
+      "id": "8",
+      "email": "william@gmail.com",
+      "username": "hopkins",
+      "password": "William56$hj",
+      "name": "Nguyen Van Truong",
+      "phone": "1-478-001-0890",
+      "address": "Yên Nghĩa,Hà Đông,Hà Nội",
+      "__v": 0
+    },
+    {
+      "id": "9",
+      "email": "kate@gmail.com",
+      "username": "kate_h",
+      "password": "kfejk@*_",
+      "name": "Nguyen Van Truong",
+      "phone": "1-678-456-1934",
+      "address": "Yên Nghĩa,Hà Đông,Hà Nội",
+      "__v": 0
+    },
+    {
+      "id": "10",
+      "email": "jimmie@gmail.com",
+      "username": "jimmie_k",
+      "password": "klein*#%*",
+      "name": "Nguyen Van Truong",
+      "phone": "1-104-001-4567",
+      "address": "Yên Nghĩa,Hà Đông,Hà Nội",
+      "__v": 0
+    },
+    {
+      "id": "0323",
+      "username": "duong123",
+      "email": "duong123@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "50de",
+      "username": "linh1",
+      "email": "linh123@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "b4a8",
+      "username": "linhn",
+      "email": "linh1234@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "afe7",
+      "username": "truongabc",
+      "email": "truong@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "7ce6",
+      "username": "linhdb",
+      "email": "linh123@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "c70b",
+      "username": "testdata",
+      "email": "test@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "d614",
+      "username": "truong456",
+      "email": "truong456@gmail.com",
+      "password": "123456"
+    }
+  ]
+}
