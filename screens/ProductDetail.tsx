@@ -34,7 +34,7 @@ const ProductDetail = ({ route, navigation }) => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch(`http://192.168.1.7:3000/product/${productId}`);
+        const response = await fetch(`http://10.0.2.2:3000/product/${productId}`);
         const data = await response.json();
         setProduct(data);
        

@@ -26,7 +26,7 @@ const Login = ({ navigation, route }) => {
 
   const fetchData = async () => {
     try {
-      const response = await fetch('http://192.168.1.7:3000/user');
+      const response = await fetch('http://10.0.2.2:3000/user');
       const json = await response.json();
       setUserData(json);
     } catch (error) {

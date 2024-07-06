@@ -20,7 +20,7 @@ const InfoUser = ({ navigation,route }) => {
         "Content-Type": "application/json",
       },
     }
-    await fetch(`http://192.168.1.7:3000/user/${data.id}`, options);
+    await fetch(`http://10.0.2.2:3000/user/${data.id}`, options);
   }
   const handleSave = async () => {
     try{

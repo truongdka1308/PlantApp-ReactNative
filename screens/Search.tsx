@@ -15,7 +15,7 @@ const Search = () => {
 
   const fetchData = async () => {
     try {
-      const response = await fetch('http://192.168.1.7:3000/product'); // Đổi địa chỉ và cổng tương ứng với máy chủ JSON của bạn
+      const response = await fetch('http://10.0.2.2:3000/product'); // Đổi địa chỉ và cổng tương ứng với máy chủ JSON của bạn
       const jsonData = await response.json();
       setData(jsonData); // Lưu dữ liệu vào state
     } catch (error) {
@@ -51,7 +51,7 @@ const Search = () => {
   return (
     <View style={styles.container}>
         <View style={styles.header}>
-          <Icon name="arrow-left" size={24} color={"black"} onPress={() => navigation.goBack()} />
+          
           <Text style={styles.productDetail}>Search</Text>
          
         </View>

@@ -10,7 +10,7 @@ const Home = ({route}) => {
   console.log(user);
   
   useEffect(() => {
-    fetch('http://192.168.1.7:3000/product') // Đổi địa chỉ và cổng tương ứng với máy chủ JSON của bạn
+    fetch('http://10.0.2.2:3000/product') // Đổi địa chỉ và cổng tương ứng với máy chủ JSON của bạn
       .then(response => response.json())
       .then(data => setPlantData(data))
       .catch(error => console.error(error));
